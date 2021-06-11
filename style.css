@@ -1,0 +1,13 @@
+body{
+    background-image: url(images/ghana.jpg);
+}
+header{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(34, 31, 31);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+};
+.container{
+    margin-top: 70px;
+}
